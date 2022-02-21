@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bb2cd60-5b01-4e86-a21b-7580c2f5c43e": {
+      "ProjectGuid": "2bb2cd60-5b01-4e86-a21b-7580c2f5c43e",
+      "DisplayName": "TDD.Dominio.Testes",
+      "ColorIndex": 0
+    },
+    "7c06e9bf-10ba-4821-8461-b8a5ac33e3d3": {
+      "ProjectGuid": "7c06e9bf-10ba-4821-8461-b8a5ac33e3d3",
+      "DisplayName": "TDD.Repositorio",
+      "ColorIndex": 1
+    },
+    "d14e0b16-bf9b-46b5-b2ec-2956b87c5e1d": {
+      "ProjectGuid": "d14e0b16-bf9b-46b5-b2ec-2956b87c5e1d",
+      "DisplayName": "TDD.Dominio",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

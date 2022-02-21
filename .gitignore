@@ -10,3 +10,6 @@
 /TDD.Domain/bin/Debug/netcoreapp2.1
 /TDD.Tests/bin/Debug/netcoreapp2.1
 /TDD.WebApi/bin/Debug/netcoreapp2.1
+/TDD.Repository/bin/Debug/net472
+/TDD.Domain/bin/Debug/net472
+/TDD.Tests/bin/Debug/net472
