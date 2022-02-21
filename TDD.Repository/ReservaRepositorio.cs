@@ -1,8 +1,8 @@
 ﻿namespace TDD.Repository
 {
     using System.Collections.Generic;
-    using TDD.Domain.Entidades;
-    using TDD.Domain.Interfaces;
+    using TDD.Dominio.Entidades;
+    using TDD.Dominio.Interfaces;
 
     public class ReservaRepositorio : IReservaRepositorio
     {

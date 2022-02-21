@@ -1,4 +1,4 @@
-﻿namespace TDD.Domain.Entidades
+﻿namespace TDD.Dominio.Entidades
 {
     using System;
 

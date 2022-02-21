@@ -1,7 +1,7 @@
-﻿namespace TDD.Domain.Interfaces
+﻿namespace TDD.Dominio.Interfaces
 {
     using System.Collections.Generic;
-    using TDD.Domain.Entidades;
+    using TDD.Dominio.Entidades;
 
     public interface IReservaRepositorio
     {

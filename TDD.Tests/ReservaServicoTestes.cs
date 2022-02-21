@@ -4,9 +4,9 @@ namespace TDD.Dominio.Testes
     using NUnit.Framework;
     using System;
     using System.Collections.Generic;
-    using TDD.Domain.Entidades;
-    using TDD.Domain.Interfaces;
-    using TDD.Domain.Servicos;
+    using TDD.Dominio.Entidades;
+    using TDD.Dominio.Interfaces;
+    using TDD.Dominio.Servicos;
 
     [TestFixture]
     public class ReservaServicoTeste

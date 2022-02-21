@@ -1,8 +1,8 @@
 ﻿namespace TDD.Dominio.Servicos
 {
     using System.Linq;
-    using TDD.Domain.Entidades;
-    using TDD.Domain.Interfaces;
+    using TDD.Dominio.Entidades;
+    using TDD.Dominio.Interfaces;
 
     public class ReservaServico_Dojo
     {

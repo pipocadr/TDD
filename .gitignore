@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TDD.Domain/obj
+/TDD.Repository/obj
+/TDD.WebApi/obj
+/TDD.Tests/obj
+/TDD.Repository/bin/Debug/netcoreapp2.1
+/TDD.Domain/bin/Debug/netcoreapp2.1
+/TDD.Tests/bin/Debug/netcoreapp2.1
+/TDD.WebApi/bin/Debug/netcoreapp2.1
